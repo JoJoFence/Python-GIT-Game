@@ -1,3 +1,2 @@
 # Python-GIT-Game
-Game created in AP Computer Science Principles using GIT and Python.
-Jonas is cooked
+- Don't commit until everyone has commented
