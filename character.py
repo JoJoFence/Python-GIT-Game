@@ -1,8 +1,6 @@
-#  defines the player character and is based off the Being class
 import being
-
+import pygame
 
 class Human(being.Being):
-    def __init__(self, health, attack):
-        being.Being.__init__(self, health, attack)
-     
+    def __init__(self, health, attack, pic, name, x, y):
+        being.Being.__init__(self, health, attack, pic, name, x, y)
